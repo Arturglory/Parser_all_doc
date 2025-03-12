@@ -23,7 +23,7 @@ Parser_all - это Python-проект для поиска текста и чи
 - Графический интерфейс для удобного использования
 
 ## Установка
-1. Клонируйте репозиторий:
+Клонируйте репозиторий:
 ```bash
-git clone [URL репозитория]
+git clone https://github.com/Arturglory/Parser_all_doc.git
 cd parser-all
